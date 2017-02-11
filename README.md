@@ -45,3 +45,12 @@ Class to demonstrate bitwise operations in java.
 This is a simple settings class, uses bitwise operations to save a number of settings as a single integer.
 
 This saves space and is faster to access and process.
+
+# Generics
+
+Simple class to show the type loss when using generics.
+
+## Example
+
+The example creates an `ArrayList<Integer>`, this is then populated with a `String` and an `Integer`
+which is succesfully stored, the values are then printed.
