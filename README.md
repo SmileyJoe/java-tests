@@ -4,6 +4,7 @@ Demos and tests of various things in java.
 
 * Instantiation
 * Bitwise Operations
+* Generics (Type loss)
 
 # Instantiation
 
